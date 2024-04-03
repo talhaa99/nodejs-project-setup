@@ -2,7 +2,7 @@
 
 ## Clone the project
 ```
-git clone https://github.com/talhaa99/nodejs-project-setup
+git clone https://github.com/talhaa99/nodejs-project-setup.git
 cd nodejs-project-setup
 ```
 
