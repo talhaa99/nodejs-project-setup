@@ -1,0 +1,29 @@
+Root
+    - config
+        db.js
+        firebase.js
+    - public
+    - src
+        - controllers
+            user.controller.js
+            post.controller.js
+        - middlewares
+            auth.middleware.js
+        - models
+            user.model.js
+            post.model.js
+        - routes
+            user.route.js
+            post.route.js
+            index.route.js
+        - views
+            - authentication
+                login.ejs
+                signup.ejs
+    .env
+    .env.sample
+    .gitignore
+    index.js
+    package.json
+    package-lock.json
+
